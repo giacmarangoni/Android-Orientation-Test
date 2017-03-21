@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OrientationTest</string>
+    <string name="first_activity">First activity</string>
+    <string name="second_activity">Second activity</string>
+    <string name="open_activity">OPEN ACTIVITY</string>
+</resources>

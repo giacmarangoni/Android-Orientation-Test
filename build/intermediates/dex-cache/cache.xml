@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_f461e13589cb2eda78d11df650a33c58261fccea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_4a2f9728979809678846b0daa3e8b8a48b2a3c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_76dc3c444deab5f71b3dbabe8e20e7a1d12706dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_7bf016022ddd0f3af72ae66ab5a6c91c4d5702e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_32d1931883204c5685fc2f507a9a7a77051c8814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_01ea35ba567d55a671d93f85bb33225bfa6603ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_6ced5f75d2ca5f22782753a89b3906670f4b2472/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_d5d8fbb26e8c28c24a8a90f07977a56e22370f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4e9997d4324da933eb617d3292a3ac86d6f25dd">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1dded9db77ebeba9742f908459751c5677f5d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3743256948fa7501922f8101ab6e726650da46c2">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a69f580ed4acd5edce10b50608c5a68b57b43f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_63db3f468c9a9f23ebd6d2f709121c288de27b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/giacomomarangoni/Desktop/Android-courses/Udacity/ud851-Exercises-student/Lesson02-GitHub-Repo-Search/OrientationTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_610a71f027d8a5826da5c4ad1d37346cf50b66e6/classes.dex" />
+    </item>
+
+</items>
