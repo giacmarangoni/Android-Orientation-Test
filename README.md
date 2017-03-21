@@ -1,8 +1,8 @@
 # Android-Orientation-Test
 An android orientation problem.
 
-Clone this project, build and run. Turn your device in landscape mode and then open a new activity.
-You will notice that orientation will turn automatically to landscape mode (even though landscape it's disabled on smartphones thanks to  ```portrait_only``` property contained in bool.xml) and, after a while, It will come back to portrait mode.
+Clone this project, build and run. Turn your device into landscape mode and then open a new activity.
+You will notice that orientation will turn automatically into landscape mode (even though landscape it's disabled on smartphones thanks to  ```portrait_only``` property contained in bool.xml) and, after a while, It will come back into portrait mode.
 
 ## Additional notes
 
