@@ -12,4 +12,4 @@ android:screenOrientation
 
 This property cannot be used in order to preserve portrait or landscape orientation on tablets.
 
-** Sample folder contains a short about this issue  **
+### Sample folder contains a short video about this issue  ###
